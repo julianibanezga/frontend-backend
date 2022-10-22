@@ -5,8 +5,9 @@
         git add .
         git commit -m 'created base folders and added readme file'
     - Push
-        git push origin master
-    - Pull
+        git push origin main
+        
+    - Pull -> Trabajo con otras personas o con otros ordenadores
 
 # Configurar usuario de git
 

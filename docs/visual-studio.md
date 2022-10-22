@@ -5,3 +5,9 @@
 
  # Seleccionar
  Shift + Fin
+
+ # agregar commentarios 
+    Ctrl +  K , Ctrl + C
+
+# Seleccionar lo mismo
+ Ctrl + D
